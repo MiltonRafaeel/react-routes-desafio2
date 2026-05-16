@@ -27,6 +27,14 @@ body {
   background-color: var(--dsc-color-bg-primary);
 }
 
-main {
-  padding: 0 20px;
+.ml160 {
+    margin-left: 160px;
+}
+
+.mr160 {
+    margin-right: 160px;
+}
+
+.ml20 {
+    margin-left: 20px;
 }

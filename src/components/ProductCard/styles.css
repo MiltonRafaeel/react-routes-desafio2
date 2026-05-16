@@ -1,0 +1,24 @@
+.product-card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.product-card-items {
+    background-color: var(--color-challenger-bg-tertiary);
+    width: 960px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.items-products {
+    display: flex;
+    gap: 20px;
+}
+
+.menu-active {
+    font-weight: 700;
+}

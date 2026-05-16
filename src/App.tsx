@@ -1,4 +1,12 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from "./routes/Home";
+import Welcome from "./routes/Home/Welcome";
+import Products from "./routes/Home/Products";
+import Computers from "./routes/Home/Products/Books";
+import Eletronics from "./routes/Home/Products/Eletronics";
+import Books from "./routes/Home/Products/Computers";
+import AboutUs from "./routes/Home/AboutUs";
+import NotFound from "./routes/Home/NotFound";
 
 function App() {
 
